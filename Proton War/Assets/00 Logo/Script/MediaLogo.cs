@@ -2,7 +2,7 @@
 using UnityEngine.SceneManagement;
 using System.Collections;
 
-public class LogoControl : MonoBehaviour {
+public class MediaLogo : MonoBehaviour {
 
 	public void LogoPassOut(){
 		SceneManager.LoadScene ("MainMenu");
