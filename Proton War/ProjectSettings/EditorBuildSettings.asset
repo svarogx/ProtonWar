@@ -4,4 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00 Logo/00 Logo.unity
+    guid: 229fde7b83c8e6e42bfa04166b6a0bdc
+  - enabled: 1
+    path: Assets/01 Main/MainMenu.unity
+    guid: b878f8fe98b58524fb6659b4aa297b7e
+  - enabled: 1
+    path: Assets/02 Character/02 Avatar.unity
+    guid: 63b0a4cc7e2925f43b3f73abbf16ccf6
+  - enabled: 1
+    path: Assets/03 Records/03 Records.unity
+    guid: e0c5aa4c714809c42a0131fe9a16d1a3
+  - enabled: 1
+    path: Assets/04 Ingame/circle.unity
+    guid: b57043d01fbccce4787a331152191ae5
